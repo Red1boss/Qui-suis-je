@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Redwane Talmant
+- 👀 I’m interested in all programming languages
+- 🌱 I’m currently learning C and C++ with the french university CNED
